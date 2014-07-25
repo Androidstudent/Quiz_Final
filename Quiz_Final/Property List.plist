@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>Beijing is the Capital of which country?</string>
+			<key>A</key>
+			<string>South Korea</string>
+			<key>B</key>
+			<string>China</string>
+			<key>C</key>
+			<string>Czech Republic</string>
+			<key>D</key>
+			<string>Philippines</string>
+			<key>QuestionAnswer</key>
+			<string>China</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of Vietnam?</string>
+			<key>A</key>
+			<string>Hanoi</string>
+			<key>B</key>
+			<string>Ottawa</string>
+			<key>C</key>
+			<string>Kingston</string>
+			<key>D</key>
+			<string>Rabat</string>
+			<key>QuestionAnswer</key>
+			<string>Hanoi</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of Argentina?</string>
+			<key>A</key>
+			<string>Mexico City</string>
+			<key>B</key>
+			<string>Moscow</string>
+			<key>C</key>
+			<string>Cardiff</string>
+			<key>D</key>
+			<string>Buenos Aires</string>
+			<key>QuestionAnswer</key>
+			<string>Buenos Aires</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of Canada?</string>
+			<key>A</key>
+			<string>Ontario</string>
+			<key>B</key>
+			<string>Ottawa</string>
+			<key>C</key>
+			<string>Toronto</string>
+			<key>D</key>
+			<string>Montreal</string>
+			<key>QuestionAnswer</key>
+			<string>Ottawa</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>Moscow is the Capital of which Country?</string>
+			<key>A</key>
+			<string>Russia</string>
+			<key>B</key>
+			<string>Germany</string>
+			<key>C</key>
+			<string>France</string>
+			<key>D</key>
+			<string>Sweden</string>
+			<key>QuestionAnswer</key>
+			<string>Russia</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of Mauritius?</string>
+			<key>A</key>
+			<string>Vienna</string>
+			<key>B</key>
+			<string>Kuala Lumpur</string>
+			<key>C</key>
+			<string>Port Louis</string>
+			<key>D</key>
+			<string>Maputo</string>
+			<key>QuestionAnswer</key>
+			<string>Port Louis</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of Netherlands?</string>
+			<key>A</key>
+			<string>Lisbon</string>
+			<key>B</key>
+			<string>Warsaw</string>
+			<key>C</key>
+			<string>Brussels</string>
+			<key>D</key>
+			<string>Amsterdam</string>
+			<key>QuestionAnswer</key>
+			<string>Amsterdam</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of India?</string>
+			<key>A</key>
+			<string>Islamabad</string>
+			<key>B</key>
+			<string>New Delhi</string>
+			<key>C</key>
+			<string>Mumbai</string>
+			<key>D</key>
+			<string>Colombo</string>
+			<key>QuestionAnswer</key>
+			<string>New Delhi</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of Iceland?</string>
+			<key>A</key>
+			<string>Reykjavik</string>
+			<key>B</key>
+			<string>Tehran</string>
+			<key>C</key>
+			<string>Iceberg</string>
+			<key>D</key>
+			<string>Port Villa</string>
+			<key>QuestionAnswer</key>
+			<string>Reykjavik</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>Algiers is the Capital of Which Country?</string>
+			<key>A</key>
+			<string>USA</string>
+			<key>B</key>
+			<string>Italy</string>
+			<key>C</key>
+			<string>Algeria</string>
+			<key>D</key>
+			<string>Albania</string>
+			<key>QuestionAnswer</key>
+			<string>Algeria</string>
+		</dict>
+	</array>
+</dict>
+</plist>
